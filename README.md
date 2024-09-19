@@ -1,11 +1,5 @@
 # genAI_fundamentals
 
-Here's a draft of a README file for your "genAI_fundamentals" repository that reflects your focus on exploring generative AI concepts through Python and Go:
-
----
-
-# genAI_fundamentals
-
 This repository is dedicated to breaking down the fundamental concepts of Generative AI (genAI) into small, manageable mini-projects. The goal is to provide a hands-on approach to understanding the core techniques, algorithms, and models that power generative AI, with implementations in **Python** (and later **Go**). Each concept is explored through a simple project to reinforce learning and provide practical experience.
 
 ## Objectives
@@ -68,5 +62,3 @@ Feel free to contribute by:
 - **Advanced Topics**: Explore more sophisticated generative AI techniques such as diffusion models, neural architecture search, and multimodal generation.
 
 ---
-
-Let me know if you would like to modify or add anything specific!
