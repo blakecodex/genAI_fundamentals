@@ -6,7 +6,7 @@ This repository is dedicated to breaking down the fundamental concepts of Genera
 
 - **Learn by Doing**: Each mini-project focuses on a specific genAI concept, making it easier to understand and implement.
 - **Progressive Complexity**: Start with simple concepts and build up to more complex models and techniques.
-- **Language Flexibility**: Initial projects are built using Python, with plans to extend the exploration into Go.
+- **Language Flexibility**: Initial projects are built using **Python**, with plans to extend the exploration into **Go**.
 - **Conceptual Understanding**: Projects will not only focus on code but also explain the theory and intuition behind each generative model or technique.
 
 ## Project Structure
@@ -14,7 +14,7 @@ This repository is dedicated to breaking down the fundamental concepts of Genera
 Each folder in this repository corresponds to a mini-project focused on a different fundamental concept of generative AI. Each project includes:
 
 - A description of the concept
-- Python (and eventually Go) code implementation
+- **Python (and eventually Go) code implementation**
 - Step-by-step breakdowns and comments in the code
 - An explanation of the results and takeaways
 
