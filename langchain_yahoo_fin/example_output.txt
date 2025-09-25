@@ -1,0 +1,8 @@
+Question:
+Summarize Microsoft’s weekly stock movement and news...
+
+Response:
+MSFT moved 6.17 USD over the past week (1.91%).
+- Microsoft expands Copilot rollout to enterprise customers (TechCrunch)
+- Azure revenue climbs 21% amid global AI race (Reuters)
+Client takeaway: Strong performance + product momentum = positive short-term positioning.

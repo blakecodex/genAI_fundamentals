@@ -24,7 +24,7 @@ if not key:
     raise RuntimeError("Missing OPENAI_API_KEY.")
 
 # Get stock price movement summary
-def get_price_summary(ticker: str = "MSFT") -> str:
+def get_price_summary(ticker: str = "MSFT") -> str: #using MSFT - enough NVIDIA and INTEL already!
     today = datetime.date.today()
     past = today - datetime.timedelta(days=7)
     data = yf.download(ticker, start=past, end=today)
