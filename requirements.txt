@@ -5,3 +5,4 @@ streamlit
 langchain==0.1.13
 langchain-community==0.0.19
 numexpr
+pydantic
